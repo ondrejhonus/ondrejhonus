@@ -1,11 +1,17 @@
-<h1>Ondřej Honus</h1>
+# Hi, I'm Ondřej! 👋  
+                
+## 🚀 About Me  
+I'm a computer science student
 
-<h4>Currently studying computer science 🖥</h4>
-<h5>Languages i can use:</h5>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" height="32px" display="flex">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="32px" display="flex">
-<img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" height="32px" display="flex">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="32px" display="flex">
+## 🛠 Skills  
+C, HTML, CSS, JS...  
+    
+## Other Common Github Profile Sections  
+📖 I'm currently not really working on anything special
+    
+🧠 I'm currently learning C#
+    
+🔗 Visit my website on [ondrejhonus.xyz](https://ondrejhonus.xyz)
 
-You can also visit my personal website on [ondrejhonus.xyz](https://ondrejhonus.xyz)
-
+📫 You can reach me on my email [honusondrej@gmail.com](mailto:honusondrej@gmail.com) 
+    
