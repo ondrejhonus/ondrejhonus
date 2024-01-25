@@ -11,7 +11,7 @@ C, HTML, CSS, JS...
     
 🧠 I'm currently learning C#
     
-🔗 Visit my website on <a href="https://ondrejhonus.xyz" target="blank">ondrejhonus.xyz</a>
+🔗 Visit my website on <a href="https://ondrejhonus.xyz" target="_blank">ondrejhonus.xyz</a>
 
-📫 You can reach me on my email <a href="mailto:honusondrej@gmail.com" target="blank">honusondrej@gmail.com</a> 
+📫 You can reach me on my email <a href="mailto:honusondrej@gmail.com" target="_blank">honusondrej@gmail.com</a> 
     
