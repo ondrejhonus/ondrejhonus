@@ -6,7 +6,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="32px"></img>
 <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" height="32px"></img>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="32px"></img>
-<br>
-<br>
+
 You can also visit my personal website on [ondrejhonus.xyz](https://ondrejhonus.xyz)
 
