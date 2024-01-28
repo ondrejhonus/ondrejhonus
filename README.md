@@ -6,7 +6,7 @@ I'm a computer science student
 ## 🛠 Skills  
 C, HTML, CSS, JS...  
     
-## Other Common Github Profile Sections  
+## Other  
 📖 I'm currently working on [PaintJS](https://github.com/ondrejhonus/PaintJS)
     
 🧠 I'm currently learning C#
