@@ -10,6 +10,8 @@ C, HTML, CSS, JS...
 📖 I'm currently working on [PaintJS](https://github.com/ondrejhonus/PaintJS)
     
 🧠 I'm currently learning C#
+
+📚 Your average Harward CS50 enjoyer
     
 🔗 Visit my website on <a href="https://ondrejhonus.xyz" target="_blank">ondrejhonus.xyz</a>
 
