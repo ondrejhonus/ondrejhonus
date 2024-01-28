@@ -7,7 +7,7 @@ I'm a computer science student
 C, HTML, CSS, JS...  
     
 ## Other Common Github Profile Sections  
-📖 I'm currently working on making my personal website better looking
+📖 I'm currently working on Paint in JS
     
 🧠 I'm currently learning C#
     
