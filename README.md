@@ -9,7 +9,7 @@ C, HTML, CSS, JS...
 ## Other  
 📖 I'm currently working on [PaintJS](https://github.com/ondrejhonus/PaintJS)
     
-🧠 I'm currently learning C#
+🧠 I'm currently learning Python
 
 📚 Your average Harward CS50 enjoyer
     
