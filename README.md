@@ -7,7 +7,7 @@ I'm a computer science student (I use i3wm on Arch btw...)
 C, HTML, CSS, JS...  
     
 ## Other  
-📖 I'm currently working on [TycoonJS](https://github.com/ondrejhonus/TycoonJS)
+📖 I'm currently working on [Miner Tycoon](https://github.com/ondrejhonus/MinerTycoon)
     
 🧠 I'm currently learning Python
 
