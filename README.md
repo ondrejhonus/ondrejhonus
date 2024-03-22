@@ -9,7 +9,7 @@ C, HTML, CSS, JS...
 ## Other  
 📖 I'm currently working on [Miner Tycoon](https://github.com/ondrejhonus/MinerTycoon)
     
-🧠 I'm currently learning Python
+🧠 I'm currently learning C
 
 📚 Your average Harward CS50 enjoyer
     
