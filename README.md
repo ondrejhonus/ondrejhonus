@@ -1,7 +1,7 @@
 # Hi, I'm Ondřej! 👋  
                 
 ## 🚀 About Me  
-I'm a computer science student (I use i3wm on Arch btw...)
+I'm a computer science student (I use plasma on Arch btw...)
 
 ## 🛠 Skills  
 C, HTML, CSS, JS...  
