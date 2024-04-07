@@ -7,7 +7,7 @@ I'm a computer science student (I use hyprland on Arch btw...)
 C, HTML, CSS, JS...  
     
 ## Other  
-📖 I'm currently working on [Miner Tycoon](https://github.com/ondrejhonus/MinerTycoon)
+📖 I'm currently working on [Miner Tycoon](https://github.com/ondrejhonus/miner_tycoon)
     
 🧠 I'm currently learning C
 
