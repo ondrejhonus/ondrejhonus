@@ -1,7 +1,7 @@
 # Hi, I'm Ondřej! 👋  
                 
 ## 🚀 About Me  
-I'm a computer science student (I use hyprland on Arch btw...)
+I'm a computer science student
 
 ## 🛠 Skills  
 C, HTML, CSS, JS...  
@@ -11,7 +11,7 @@ C, HTML, CSS, JS...
     
 🧠 I'm currently learning C
 
-📚 Your average Harward CS50 enjoyer
+📚 I use arch btw...
     
 🔗 Visit my website on <a href="https://ondrejhonus.xyz" target="_blank">ondrejhonus.xyz</a>
 
