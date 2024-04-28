@@ -9,7 +9,7 @@ C, HTML, CSS, JS...
 ## Other  
 📖 I'm currently working on [Tic tac toe multiplayer](https://github.com/ondrejhonus/tic-tac-toe-multiplayer/)
     
-🧠 I'm currently learning C
+🧠 I'm currently learning C and Svelte
 
 📚 I use arch btw...
     
