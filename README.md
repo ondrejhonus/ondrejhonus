@@ -7,7 +7,7 @@ I'm a computer science student
 C, HTML, CSS, JS...  
     
 ## Other  
-📖 I'm currently working on [Tic tac toe multiplayer](https://github.com/ondrejhonus/tic-tac-toe-multiplayer/)
+📖 I'm currently working on [Tic tac toe multiplayer](https://github.com/ondrejhonus/ttt-online-svelte/)
     
 🧠 I'm currently learning C and Svelte
 
