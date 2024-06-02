@@ -9,7 +9,7 @@ C, HTML, CSS, JS...
 ## Other  
 📖 I'm currently working on [Miner tycoon](https://github.com/ondrejhonus/miner-tycoon/)
     
-🧠 I'm currently learning C and Svelte
+🧠 I'm currently learning C and Godot
 
 📚 I use arch btw...
     
