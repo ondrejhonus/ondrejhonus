@@ -8,6 +8,7 @@ C, HTML, CSS, JS...
     
 ## Other  
 📖 I'm currently working on [Miner tycoon](https://github.com/ondrejhonus/miner_tycoon/)
+- You can play it on [itch.io](https://qwerticek.itch.io/miner-tycoon)
     
 🧠 I'm currently learning C and Godot
 
@@ -15,5 +16,5 @@ C, HTML, CSS, JS...
     
 🔗 Visit my website on <a href="https://ondrejhonus.com" target="_blank">ondrejhonus.com</a>
 
-📫 You can reach me on my email <a href="mailto:honusondrej@gmail.com" target="_blank">honusondrej@gmail.com</a> 
+📫 You can reach me on my email <a href="mailto:ondrejhonus@proton.me" target="_blank">honusondrej@gmail.com</a> 
     
