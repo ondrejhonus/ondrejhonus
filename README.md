@@ -12,7 +12,7 @@ C, HTML, CSS, JS...
     
 🧠 I'm currently learning C and Godot
 
-🖥️ I use [Arch Linux](https://archlinux.org/) with [dwm](https://dwm.suckless.org/) as my main operating system
+🖥️ I use [Arch Linux](https://archlinux.org/) with [dwm](https://dwm.suckless.org/) on my desktop and [Hyprland](https://hyprland.org/) on my laptop
     
 🔗 Visit my website on <a href="https://ondrejhonus.com" target="_blank">ondrejhonus.com</a>
 
