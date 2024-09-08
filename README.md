@@ -12,6 +12,8 @@ C, HTML, CSS, JS...
     
 🧠 I'm currently learning C and Godot
 
+📝 I'm planning of doing a 3D game where you decide if you pull a lever
+
 🖥️ I use [Arch Linux](https://archlinux.org/) with [dwm](https://dwm.suckless.org/) on my desktop and [Hyprland](https://hyprland.org/) on my laptop
     
 🔗 Visit my website on <a href="https://ondrejhonus.com" target="_blank">ondrejhonus.com</a>
