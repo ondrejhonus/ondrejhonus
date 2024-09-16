@@ -7,12 +7,9 @@ I'm a computer science student
 C, HTML, CSS, JS...  
     
 ## Other  
-📖 I'm currently working on [Miner tycoon](https://github.com/ondrejhonus/miner_tycoon/)
-- You can play it on [itch.io](https://qwerticek.itch.io/miner-tycoon)
+📖 I'm currently working on [Pull The Lever](https://github.com/ondrejhonus/pull_the_lever/)
     
 🧠 I'm currently learning C and Godot
-
-📝 I'm planning of doing a 3D game where you decide if you pull a lever
 
 🖥️ I use [Arch Linux](https://archlinux.org/) with [dwm](https://dwm.suckless.org/) on my desktop and [Hyprland](https://hyprland.org/) on my laptop
     
