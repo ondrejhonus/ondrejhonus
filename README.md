@@ -7,7 +7,7 @@ I'm a computer science student
 C, HTML, CSS, JS...  
     
 ## Other  
-📖 I'm currently working on [Pull The Lever](https://github.com/ondrejhonus/pull_the_lever/)
+📖 I'm currently working on [Pull The Lever 3D](https://github.com/ondrejhonus/pull_the_lever_3d/)
     
 🧠 I'm currently learning C and Godot
 
