@@ -17,7 +17,7 @@ C, HTML, CSS, JS...
 
 📫 You can reach me on my email <a href="mailto:ondrejhonus@proton.me" target="_blank">honusondrej@gmail.com</a> 
 
-# TO-DO list
+### TO-DO list
 - Finish '[Pull The Lever 3D](https://github.com/ondrejhonus/pull_the_lever_3d)' 
 - Think of what to do for '[dc](https://github.com/ondrejhonus/dc)'
 - Make a bingo board creator in JS
