@@ -4,7 +4,7 @@
 I'm a computer science student
 
 ## 🛠 Skills  
-C, HTML, CSS, JS...  
+C, HTML, CSS, JS, GDScript, Python, NodeJS, Arduino  
     
 ## Other  
 📖 I'm currently working on [Pull The Lever 3D](https://github.com/ondrejhonus/pull_the_lever_3d/)
