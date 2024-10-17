@@ -9,7 +9,7 @@ C, Arduino, JavaScript, Linux, HTML/CSS, GDScript, Python, NodeJS
 ## Other  
 📖 I'm currently working on [Pull The Lever 3D](https://github.com/ondrejhonus/pull_the_lever_3d/)
     
-🧠 I'm currently learning C and Godot Engine
+🧠 I'm currently learning C/C++ and Godot Engine
 
 🖥️ I use [Arch Linux](https://archlinux.org/) with [dwm](https://dwm.suckless.org/) on my desktop and [Hyprland](https://hyprland.org/) on my laptop
     
