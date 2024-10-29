@@ -1,7 +1,7 @@
 # Hi, I'm Ondřej! 👋  
                 
 ## 🚀 About Me  
-I'm a computer science student that's just trying to make it
+I'm a computer science student interested in programming, Linux, microcontrollers, gamedev, webdev, music and cooking
 
 ## 🛠 Skills  
 C, Arduino, JavaScript, Linux, HTML/CSS, GDScript, Python, NodeJS
