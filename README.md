@@ -20,3 +20,5 @@ C, Arduino, JavaScript, Linux, HTML/CSS, GDScript, Python, NodeJS
 ### TO-DO list
 - Finish '[Pull The Lever 3D](https://github.com/ondrejhonus/pull_the_lever_3d)' 
 - Make a bingo board creator in JS
+
+https://docs.google.com/presentation/u/0/d/12Y7GBLvWWEMGW6hKwYSdPVQjfvNKtge8LESWL5qs1Cg/mobilepresent?pli=1
