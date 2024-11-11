@@ -20,4 +20,3 @@ C, Arduino, JavaScript, Linux, HTML/CSS, GDScript, Python, NodeJS
 ### TO-DO list
 - Finish '[Pull The Lever 3D](https://github.com/ondrejhonus/pull_the_lever_3d)' 
 - Make a bingo board creator in JS
-- Fix gituploader on first commit, coz it tries to check last commit if there was no commit
