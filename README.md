@@ -11,7 +11,7 @@ C, Arduino, JavaScript, Linux, HTML/CSS, GDScript, Python, NodeJS
     
 🧠 I'm currently learning C/C++ and Godot Engine
 
-🖥️ I use [Arch Linux](https://archlinux.org/) with [dwm](https://dwm.suckless.org/) on my desktop and [Cinnamon]([https://hyprland.org/](https://wiki.archlinux.org/title/Cinnamon)) on my laptop
+🖥️ I use [Arch Linux](https://archlinux.org/) with [dwm](https://dwm.suckless.org/) on my desktop and [Cinnamon](https://wiki.archlinux.org/title/Cinnamon) on my laptop
     
 🔗 Visit my website on <a href="https://ondrejhonus.com" target="_blank">ondrejhonus.com</a>
 
