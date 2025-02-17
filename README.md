@@ -7,9 +7,9 @@ I'm a computer science student interested in programming, Linux, microcontroller
 C/C++, Arduino, Linux, JavaScript, NodeJS, HTML/CSS, Godot Engine, GDScript, Python
 
 ## 🌐 Other  
-📖 I'm currently working on [Pull The Lever 3D](https://github.com/ondrejhonus/pull_the_lever_3d/) and [2D Fishing](https://github.com/ondrejhonus/2d_fishing)
+📖 I'm currently working on [Pygame socket](https://github.com/ondrejhonus/pygame_socket/) which is a multiplayer shooter made in pygame
 
-🧠 I'm currently learning C/C++ and Godot Engine
+🧠 I'm currently learning C/C++ and Unity with C#
 
 🖥️ I use [Arch Linux](https://archlinux.org/) with [bspwm](https://github.com/baskerville/bspwm) on both my desktop and laptop
 
