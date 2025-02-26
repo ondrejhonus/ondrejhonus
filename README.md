@@ -1,8 +1,8 @@
 # Hi, I'm Ondřej! 👋  
 
 ## 🚀 About Me  
-I'm a computer science student interested in programming, Linux, microcontrollers, gamedev, webdev, music and cooking
-
+- I'm a computer science student interested in programming, Linux, microcontrollers, gamedev, webdev, music, guitars and cooking
+- I'm also a self-host hobbyist (Jellyfin, Homeassistant, Bitwarden)
 ## 🛠️ Skills  
 C/C++, Arduino, Linux, JavaScript, NodeJS, HTML/CSS, Godot Engine, GDScript, Python
 
