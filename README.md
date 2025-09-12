@@ -7,7 +7,7 @@
 C/C++, Arduino, Linux, JavaScript, NodeJS, HTML/CSS, Godot Engine, GDScript, Python
 
 ## 🌐 Other  
-📖 I'm currently working on [Pygame socket](https://github.com/ondrejhonus/pygame_socket/) which is a multiplayer shooter made in pygame
+📖 I'm currently working on [Wood Game](https://github.com/ondrejhonus/wood-game/) which is an ongoing 3D wood gathering game in Unity
 
 🧠 I'm currently learning C/C++ and Unity with C#
 
