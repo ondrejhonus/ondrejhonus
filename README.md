@@ -13,7 +13,7 @@
 
 🧠 I'm currently learning `C++` and `Go`
 
-🖥️ I use [Void Linux](https://voidlinux.org/) with [Sway](https://swaywm.org/) on both my desktop and my Thinkpad X230 ([dots](https://github.com/ondrejhonus/dots/))
+🖥️ I use [Void Linux](https://voidlinux.org/) with [i3](https://i3wm.org/) on both my desktop and my Thinkpad X230 ([dots](https://github.com/ondrejhonus/dots/))
 
 📫 You can reach me on my email [ondrejhonus@pm.me](mailto:ondrejhonus@pm.me)
 
