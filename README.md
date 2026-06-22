@@ -1,4 +1,4 @@
-# Hi, I'm Ondřej! 👋  
+# Hi, I'm Nella! 👋  
 
 ## 🚀 About Me  
 - I'm a computer science student interested in programming, Linux, microcontrollers, gamedev, webdev, music, guitars and cooking
@@ -9,17 +9,17 @@
 
 ## What am I up to?
 
-📖 I'm currently working on [CPM](https://github.com/ondrejhonus/cpp_proc/) Which is a `htop` like TUI process manager
+📖 I'm currently working on [CPM](https://github.com/nellahonusova/cpp_proc/) Which is a `htop` like TUI process manager
 
 🧠 I'm currently learning `C++` and `Go`
 
-🖥️ I use [Void Linux](https://voidlinux.org/) with [i3](https://i3wm.org/) on both my desktop and my Thinkpad X230 ([dots](https://github.com/ondrejhonus/dots/))
+🖥️ I use [Void Linux](https://voidlinux.org/) with [i3](https://i3wm.org/) on both my desktop and my Thinkpad X230 ([dots](https://github.com/nellahonusova/dots/))
 
-📫 You can reach me on my email [ondrejhonus@pm.me](mailto:ondrejhonus@pm.me)
+📫 You can reach me on my email [nellahonusova@proton.me](mailto:nellahonusova@proton.me)
 
 #### Cool links:
-🔗 [Website](https://ondrejhonus.com/)  
-📌 [Blog](https://ondrejhonus.com/posts/)  
-📝 [Code snippets](https://ondrejhonus.com/snippets/)  
-🍎 [Recipes](https://veg.ondrejhonus.com/)  
-🐧 [dots](https://github.com/ondrejhonus/dots/)  
+🔗 [Website](https://nellah.me/)  
+📌 [Blog](https://nellah.me/posts/)  
+📝 [Code snippets](https://nellah.me/snippets/)  
+🍎 [Recipes](https://veg.nellah.me/)  
+🐧 [dots](https://github.com/nellahonusova/dots/)  
